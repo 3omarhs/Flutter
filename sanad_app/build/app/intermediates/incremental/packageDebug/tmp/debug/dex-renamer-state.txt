@@ -1,0 +1,4 @@
+#Tue Oct 26 02:10:48 EEST 2021
+base.0=C\:\\Users\\omarh\\sanad_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
