@@ -1,0 +1,7 @@
+dev/vbonnet/flutterwebbrowser/MethodCallHandlerImpl.java
+ dev.vbonnet.flutterwebbrowser.MethodCallHandlerImpl
+dev/vbonnet/flutterwebbrowser/BuildConfig.java
+ dev.vbonnet.flutterwebbrowser.BuildConfig
+dev/vbonnet/flutterwebbrowser/FlutterWebBrowserPlugin.java
+ dev.vbonnet.flutterwebbrowser.FlutterWebBrowserPlugin
+ dev.vbonnet.flutterwebbrowser.FlutterWebBrowserPlugin$1

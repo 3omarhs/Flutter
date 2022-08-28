@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bcf9e25-94ad-45eb-b1af-582990ebdb7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="205I2vZlW7E7F7N160kfCY1i9Tj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\omarh\my_project_2\android\app\src\main\res\mipmap-xxxhdpi" />
+      <recent name="C:\Users\omarh\my_project_2\android\app\src\main\res\mipmap-xxhdpi" />
+      <recent name="C:\Users\omarh\my_project_2\android\app\src\main\res\mipmap-xhdpi" />
+      <recent name="C:\Users\omarh\my_project_2\android\app\src\main\res\mipmap-mdpi" />
+      <recent name="C:\Users\omarh\my_project_2\android\app\src\main\res\mipmap-hdpi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pass_generator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pass_generator" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bcf9e25-94ad-45eb-b1af-582990ebdb7b" name="Default Changelist" comment="" />
+      <created>1635327839503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635327839503</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="86" key="#Inspections" timestamp="1635960942453">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="395" y="86" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1635960942453" />
+    <state x="878" y="157" key="AndroidProcessChooserDialog" timestamp="1635971006310">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="878" y="157" key="AndroidProcessChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1635971006310" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1635328624198">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1635328624198" />
+    <state width="895" height="205" key="GridCell.Tab.0.bottom" timestamp="1635974760327">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="895" height="205" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1635974760327" />
+    <state width="895" height="205" key="GridCell.Tab.0.center" timestamp="1635974760326">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="895" height="205" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1635974760326" />
+    <state width="895" height="205" key="GridCell.Tab.0.left" timestamp="1635974760326">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="895" height="205" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1635974760326" />
+    <state width="895" height="205" key="GridCell.Tab.0.right" timestamp="1635974760326">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="895" height="205" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1635974760326" />
+    <state x="584" y="186" key="chooseDestDirectoryDialog" timestamp="1635972467584">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="584" y="186" key="chooseDestDirectoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1635972467584" />
+    <state x="639" y="94" key="new project wizard" timestamp="1635973042398">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="639" y="94" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1635973042398" />
+    <state x="722" y="188" key="run.anything.popup" timestamp="1635968773943">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="722" y="188" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1635968773943" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1635937154007">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1635937154007" />
+  </component>
+</project>

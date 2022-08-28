@@ -1,0 +1,2 @@
+es/antonborri/home_widget/BuildConfig.java
+ es.antonborri.home_widget.BuildConfig

@@ -1,0 +1,6 @@
+C:\Users\omarh\flutter\.pub-cache\hosted\pub.dartlang.org\workmanager-0.4.1\android\src\main\kotlin\be\tramckrijte\workmanager\BackgroundWorker.kt
+C:\Users\omarh\flutter\.pub-cache\hosted\pub.dartlang.org\workmanager-0.4.1\android\src\main\kotlin\be\tramckrijte\workmanager\DebugHelper.kt
+C:\Users\omarh\flutter\.pub-cache\hosted\pub.dartlang.org\workmanager-0.4.1\android\src\main\kotlin\be\tramckrijte\workmanager\Extractor.kt
+C:\Users\omarh\flutter\.pub-cache\hosted\pub.dartlang.org\workmanager-0.4.1\android\src\main\kotlin\be\tramckrijte\workmanager\SharedPreferenceHelper.kt
+C:\Users\omarh\flutter\.pub-cache\hosted\pub.dartlang.org\workmanager-0.4.1\android\src\main\kotlin\be\tramckrijte\workmanager\WorkmanagerCallHandler.kt
+C:\Users\omarh\flutter\.pub-cache\hosted\pub.dartlang.org\workmanager-0.4.1\android\src\main\kotlin\be\tramckrijte\workmanager\WorkmanagerPlugin.kt

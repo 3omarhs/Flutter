@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_i3.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-hdpi\\i3.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_i3.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\i3.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i3.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\i3.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_i3.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-mdpi\\i3.png"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\my_project_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_i3.png.flat",
+        "source": "C:\\Users\\omarh\\my_project_2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\i3.png"
+    }
+]

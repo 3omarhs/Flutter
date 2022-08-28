@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\omarh\\zuj_busses_3\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\omarh\\.gradle\\caches\\transforms-2\\files-2.1\\ba035ab3a4e7c3e7498d0d61abf0df67\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\zuj_busses_3\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\omarh\\.gradle\\caches\\transforms-2\\files-2.1\\ba035ab3a4e7c3e7498d0d61abf0df67\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\zuj_busses_3\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\omarh\\.gradle\\caches\\transforms-2\\files-2.1\\ba035ab3a4e7c3e7498d0d61abf0df67\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarh\\zuj_busses_3\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\omarh\\.gradle\\caches\\transforms-2\\files-2.1\\ba035ab3a4e7c3e7498d0d61abf0df67\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    }
+]
