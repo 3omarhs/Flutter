@@ -1,0 +1,63 @@
+ final String Shift;
+  final String Transaction_Date;
+  final String TimeIn;
+  final String Timeout;
+  final String ShiftTimeIn;
+  final String ShiftTimeOut;
+  final String Required;
+  final String DayType;
+  final String Actual;
+  final String Leaves;
+  final String Overtime;
+  final String Total;
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+  final String leave;
+  final String from_time;
+  final String to_time;
+  final String leave_date;
+  final String leave_hours;
+  final String posted;
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+  final String Overtime;
+  final String OvertimeDate;
+  final String Total_Hour;
+  final String Duration;
+  final String Value;
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+  final String FirstName;
+  final String SecondName;
+  final String ThirdName;
+  final String LastName;
+  final String Gender;
+  final String Nationality;
+  final String PhoneNumber;
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+  final String vacation;
+  final String from_date;
+  final String to_date;
+  final String period;
+  final String value;
+  final String note;
+  final String status;
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+  final String Vacation;
+  final String From_Date;
+  final String To_Date;
+  final String Period;
+  final String Status;
+  final String Note;
+  final String Manager_Note;
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+  final String Leave;
+  final String From_Time;
+  final String To_Time;
+  final String Leave_Date;
+  final String STATUS;
+  final String Note;
+  final String Manager_Note;
